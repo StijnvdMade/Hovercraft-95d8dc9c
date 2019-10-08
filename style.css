@@ -188,8 +188,8 @@ div[scope="pdiv"] {
 }
 
 @media (hover: hover) {
-  a:hover[scope="hover"] {
-    background: yellow;
+  a:hover {
+    background: green;
     cursor: wait;
   }
 }
